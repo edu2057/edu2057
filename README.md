@@ -10,13 +10,14 @@
 
 
  
-## 🌐 📫 How to reach me on Socials 😊 :
+##  📫 How to reach me on Socials 😊 :
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shikshya Poudel  )
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shikshyapaudel5@gmail.com) -->
 <p>
     🌐 <a href="https://edu2057.github.io/my_portfolio/" target="_blank">Portfolio</a>   </br>
     💼 <a href="https://www.linkedin.com/in/shikshya-poudel-350a082b3/" target="_blank">LinkedIn</a>  </br>
-    📂 <a href="https://github.com/edu2057" target="_blank">GitHub</a>
+    📂 <a href="https://github.com/edu2057" target="_blank">GitHub</a></br>
+    📩 <a href="shikshyapaudel5@gmail.com" target="_blank">Gmail</a> 
 </p>
 
 # 💻 Tech Stack:
